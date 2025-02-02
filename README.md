@@ -4,6 +4,8 @@ A starter Ghost theme with Twitter Bootstrap integration. This theme has only ba
 
 # misc
 
+yo men
+
 author: matt lambert
 
 web: [cardeo.ca](http://cardeo.ca)
